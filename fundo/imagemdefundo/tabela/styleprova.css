@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Passion+One:wght@400;700;900&family=Playwrite+DE+Grund+Guides&family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Playwrite+DE+Grund+Guides&family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Playwrite+DE+Grund+Guides&family=Sriracha&display=swap');
+
+:root {
+    --font-noto-sans-jp: 'Noto Sans JP', sans-serif;
+    --font-passion-one: 'Passion One', cursive;
+    --font-sriracha: 'Sriracha', cursive;  
+}
+
+.fonte{
+  font-family: var(--font-noto-sans-jp);
+}
+
+h1 {
+  font-family: var(--font-passion-one);
+}
+
+p {
+  font-family: var(--font-sriracha);
+}
